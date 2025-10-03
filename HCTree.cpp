@@ -3,7 +3,6 @@
 #include <stack>
 using namespace std;
 
-//Recursive clearing function I implemented in PA2
 void deleteRecursive(HCNode* newNode) {
     //check if nullptr
     if (newNode != nullptr) {

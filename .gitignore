@@ -1,0 +1,18 @@
+# Executables
+compress
+uncompress
+
+# Object Files
+*.o
+
+#compressed files
+*.gz
+
+# OS files
+.DS_Store
+*.swp
+*~
+
+# Editor backup files
+*~
+*.bak
